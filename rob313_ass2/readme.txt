@@ -1,0 +1,3 @@
+- run import modules First
+- ignore the test cell: has some junk code used for testings
+- Chronological order is an easy way to reproduce compiling. However, if one section is specifically desired, run all code under the big header for that example. For example, if greedy regression was to be reproduced, go to greedy regression header and run all code below it
